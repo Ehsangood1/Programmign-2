@@ -10,7 +10,10 @@ Reference Data Types
 ## 1. Primitive Data Types:
   Primitive types are the most basic data types built into the Java language. They are not objects, and they store their values directly in memory.
   byte (8-bit) - short (16-bit) - int (32-bit) - long (64-bit) - float (Single-precision 32-bit floating point) - double (Single-precision 64-bit floating point) - boolean (Represents one bit of information) - char ( Single    16-bit Unicode character)
-
+int age = 30;
+double price = 19.99;
+char grade = 'A';
+boolean isAvailable = true;
 ## 2. Reference Data Types:
   
 ## Key Concepts
