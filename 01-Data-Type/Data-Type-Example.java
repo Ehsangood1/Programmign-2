@@ -21,3 +21,4 @@ public class DataTypesExample {
         System.out.println("boolean: " + bool);
 
     }
+}
