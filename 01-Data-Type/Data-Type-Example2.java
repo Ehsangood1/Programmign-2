@@ -1,4 +1,5 @@
-
+public class DataTypesExample {
+    public static void main(String[] args) {
 
 // Reference data types
         String str = "Hello, World!";
