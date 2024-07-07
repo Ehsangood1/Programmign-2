@@ -2,16 +2,16 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
-    Scanner myObj = new Scanner(System.in);
+    Scanner type = new Scanner(System.in);
 
     System.out.println("Enter name, age and salary:");
 
     // String input
-    String name = myObj.nextLine();
+    String name = type.nextLine();
 
     // Numerical input
-    int age = myObj.nextInt();
-    double salary = myObj.nextDouble();
+    int age = type.nextInt();
+    double salary = type.nextDouble();
 
     // Output input by user
     System.out.println("Name: " + name);
