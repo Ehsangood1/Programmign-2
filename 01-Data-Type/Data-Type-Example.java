@@ -4,8 +4,8 @@ public class DataTypesExample {
         byte b = 100;
         short s = 10000;
         int i = 100000;
-        long l = 100000000L;
-        float f = 10.5f;
+        long l = 100000000L;   // Note the 'L' at the end
+        float f = 10.5f;  // Note the 'f' at the end
         double d = 20.99;
         char c = 'A';
         boolean bool = true;
